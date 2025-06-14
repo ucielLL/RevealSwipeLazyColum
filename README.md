@@ -3,7 +3,8 @@
 
 A component that allows you to display hidden swipe actions (left or right) for each item inside a `LazyColumn`.
 
-![Preview](https://github.com/user-attachments/assets/2354705b-fa02-4942-a6a1-eeee66958b20)
+![example](https://github.com/user-attachments/assets/5277dab2-0dfb-4b99-983d-569d3cdd4a9a)
+
 
 ## Features
 - Swipe left or right to reveal custom actions.
